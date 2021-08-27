@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17452" started-at="2020-05-27T12:07:49Z" finished-at="2020-05-27T12:08:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17452" started-at="2020-05-27T12:07:49Z" finished-at="2020-05-27T12:08:07Z">
+      <class name="pl.com.mikronika.mujobs.testcases.DodajUrzadzeniePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:pl.com.mikronika.mujobs.testcases.DodajUrzadzeniePageTest@7a35b0f5]" name="setUp" is-config="true" duration-ms="13929" started-at="2020-05-27T14:07:49Z" finished-at="2020-05-27T14:08:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewPrzyrzadyNadzorowaneTest()[pri:0, instance:pl.com.mikronika.mujobs.testcases.DodajUrzadzeniePageTest@7a35b0f5]" name="addNewPrzyrzadyNadzorowaneTest" duration-ms="2875" started-at="2020-05-27T14:08:03Z" finished-at="2020-05-27T14:08:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewPrzyrzadyNadzorowaneTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:pl.com.mikronika.mujobs.testcases.DodajUrzadzeniePageTest@7a35b0f5]" name="tearDown" is-config="true" duration-ms="633" started-at="2020-05-27T14:08:06Z" finished-at="2020-05-27T14:08:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pl.com.mikronika.mujobs.testcases.DodajUrzadzeniePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

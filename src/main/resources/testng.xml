@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Mujobs">
+
+	<listeners>
+		<listener
+			class-name="pl.com.mikronika.mujobs.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+	
+	<test name="Mujobs Test Cases">
+		<classes>
+			<class name="pl.com.mikronika.mujobs.testcases.LoginPageTest"></class>
+			<class name="pl.com.mikronika.mujobs.testcases.HomePageTest"></class>
+			<class name="pl.com.mikronika.mujobs.testcases.UrzadzeniaPageTest"></class>
+		</classes>
+	</test>
+</suite>
